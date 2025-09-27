@@ -21,8 +21,6 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-nikita-m
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-<br>
-
 
 ## 💼 Skills
 
@@ -58,12 +56,8 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-nikita-m
 
 <br>
 
-## 📣 How about an Office quote before you go?
+## 🌟 Parting Words
 
-> Bears, Beets, Battlestar Galactica.
->
-> <p>- Jim Halpert</p>
+“Code with passion, ship with purpose.”
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+— Nikita
