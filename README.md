@@ -1,4 +1,4 @@
-[![Nikita's GitHub Banner](./assets/header.png)](https://portfolio-nikita-mu.vercel.app/)
+[![Nikita's GitHub Banner](./assets/header.png)](https://nikitajaiswaldev.github.io/portfolio-nikita/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikita-jaiswal-a20583202/)
 
@@ -6,7 +6,7 @@ Hey there 👋
 
 I’m Nikita, a senior full-stack engineer and creative coder who specializes in front-end and backend development. My vision is to transform user problems into effective solutions by building interactive, scalable websites and integrating AI to solve real-world challenges.
 
-Want to know more about me? [Check out my portfolio.](https://portfolio-nikita-mu.vercel.app/)
+Want to know more about me? [Check out my portfolio.](https://nikitajaiswaldev.github.io/portfolio-nikita/)
 
 ## 📝 Latest Blog Posts
 
