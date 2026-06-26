@@ -1,4 +1,4 @@
-[![Nikita's GitHub Banner](./assets/header.png)](https://nikitajaiswaldev.github.io/portfolio-nikita/)
+[![Nikita's GitHub Banner](./assets/header.png)](https://nikitajaiswal.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikita-jaiswal-a20583202/)
 
